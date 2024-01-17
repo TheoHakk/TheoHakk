@@ -28,7 +28,7 @@
   </a>
   
   <a href="https://docs.platformio.org" target="_blank" rel="noreferrer">
-    <img src="https://platformio.org/images/platformio-logo.png" alt="PlatformIO" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" alt="PlatformIO" width="40" height="40"/>
   </a>
   
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
