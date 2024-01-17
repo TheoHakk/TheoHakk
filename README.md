@@ -68,8 +68,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
   
-  <a href="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+  <a href="https://learn.microsoft.com/fr-fr/dotnet/maui/what-is-maui?view=net-maui-8.0" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg" alt="dotnet" width="40" height="40"/>
   </a>
 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
