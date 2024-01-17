@@ -90,6 +90,10 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a>
+
+  <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-v4.png" alt="pm2" width="40" height="40"/>
+  </a>
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -110,10 +114,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-  
-  <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-v4.png" alt="pm2" width="40" height="40"/>
-  </a>
+
 </p>
 
 <h3 align="left">Some cool graphs</h3>
