@@ -105,7 +105,7 @@
   </a>
 
   <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-v4.png" alt="pm2" width="40" />
+    <img src="https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-v4.png" alt="pm2" width="50" height="30"/>
   </a>
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
