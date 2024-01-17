@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and tools:</h3>
 <p align="Center">
 
   <a href="https://docs.platformio.org" target="_blank" rel="noreferrer">
