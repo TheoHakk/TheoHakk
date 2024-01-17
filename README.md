@@ -112,7 +112,7 @@
   </a>
   
   <a href="https://pm2.keymetrics.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-v4.png" alt="pm2"/>
+    <img src="https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-v4.png" alt="pm2" width="40" height="40"/>
   </a>
 </p>
 
