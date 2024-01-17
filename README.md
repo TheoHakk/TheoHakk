@@ -89,8 +89,9 @@
   </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theohakk&show_icons=true&locale=en&layout=compact" alt="theohakk" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theohakk&" alt="theohakk" />
+<h3 align="left">Some cool graphs</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theohakk&show_icons=true&locale=en&layout=compact" alt="theohakk" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theohakk&" alt="theohakk" />
 </p>
 
