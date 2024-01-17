@@ -27,6 +27,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
   
+  <a href="https://docs.platformio.org" target="_blank" rel="noreferrer">
+    <img src="https://platformio.org/images/platformio-logo.png" alt="PlatformIO" width="40" height="40"/>
+  </a>
+  
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
   </a>
